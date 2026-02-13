@@ -40,3 +40,6 @@ This project demonstrates:
 ```bash
 cd frontend
 npm install
+
+Update README with project description and usage
+
