@@ -12,3 +12,4 @@ export const connectWallet = () => {
     },
   });
 };
+//Add wallet connection and contract call logic
