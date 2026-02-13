@@ -1,0 +1,8 @@
+{
+  "name": "stacks-onchain-voting",
+  "version": "1.0.0",
+  "description": "On-chain voting dApp built on Stacks",
+  "scripts": {
+    "start": "cd frontend && npm start"
+  }
+}
