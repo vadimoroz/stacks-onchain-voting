@@ -1,6 +1,6 @@
 ;; ========================
 ;; Data Storage
-;; ========================
+;; =======================
 
 (define-data-var candidate-a uint u0)
 (define-data-var candidate-b uint u0)
