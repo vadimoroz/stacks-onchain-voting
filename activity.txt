@@ -168,3 +168,4 @@
 2026-02-18 12:03:30 - updated vote function
 2026-02-18 12:03:40 - added comment
 2026-02-18 12:04:17 - updated vote function
+2026-02-18 12:04:24 - refined mapping
