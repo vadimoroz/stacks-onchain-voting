@@ -288,3 +288,4 @@
 2026-02-23 11:46:00 - added comment
 2026-02-23 11:46:21 - updated vote function
 2026-02-23 11:46:55 - updated vote function
+2026-02-23 11:47:38 - refined mapping
