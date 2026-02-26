@@ -366,3 +366,4 @@
 2026-02-26 17:23:58 - updated vote function
 2026-02-26 17:25:04 - added comment
 2026-02-26 17:25:14 - updated vote function
+2026-02-26 17:25:34 - refined mapping
